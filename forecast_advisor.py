@@ -22,7 +22,7 @@ DB_PATH = BASE_DIR.parent / "dokainnov_prototype" / "database" / "dokainnov.db"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="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",
 )
 
 MODEL_NAME = "tngtech/deepseek-r1t2-chimera:free"
